@@ -38,3 +38,4 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 # Deployed Application
 
 # GitHub
+https://github.com/olivialammam/react-portfolio
