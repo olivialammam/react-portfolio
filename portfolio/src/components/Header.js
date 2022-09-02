@@ -5,23 +5,22 @@ import Navigation from './Navigation';
 
 function header()
 { return (
-<header>
-    <div>
-        <div className="item">
-            <Navigation></Navigation>
-            <img src="https://cdn.pixabay.com/photo/2015/05/31/10/51/technology-791029_960_720.jpg" alt=""/>
-            <div className="cover">
-                <div className="container">
-                    <div className="header-content">
-                        <div className="line"></div>
-                        <h2>Reinvent Business Experience with</h2>
-                        <h1>Our Global and Integrated Solutions</h1>
-                        <h4>We help entrepreneurs, start-ups and enterprises shape their ideas into business</h4>
+    <header class="bg-dark py-5">
+        <Navigation></Navigation>
+    <div class="container px-5">
+        <div class="row gx-5 justify-content-center">
+            <div class="col-lg-6">
+                <div class="text-center my-5">
+                    <h1 class="display-5 fw-bolder text-white mb-2">Olivia Lammam</h1>
+                    <p class="lead text-white-50 mb-4">I'm a Full Stack Web Developer from Los Angeles.</p>
+                    <div class="d-grid gap-3 d-sm-flex justify-content-sm-center">
+                        <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Contact</a>
+                        <a class="btn btn-outline-light btn-lg px-4" href="#!">Learn More</a>
                     </div>
                 </div>
-             </div>
-        </div>                    
- </div>
+            </div>
+        </div>
+    </div>
 </header>
 )}
 
