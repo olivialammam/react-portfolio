@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/olivialammam/react-portfolio/issues"
   },
-  "homepage": "https://github.com/olivialammam/react-portfolio#readme"
+  "homepage": "https://github.com/olivialammam/react-portfolio#readme",
+  "dependencies": {
+    "mdb-react-ui-kit": "^4.2.0"
+  }
 }

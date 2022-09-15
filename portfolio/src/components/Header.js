@@ -1,11 +1,13 @@
 import React from 'react';
 import 'owl.carousel';
-import $ from 'jquery';
 import Navigation from './Navigation';
 
 function header()
 { return (
-    <header class="bg-dark py-5">
+    <header 
+                className='p-5 text-center bg-image'
+        style={{ backgroundImage: "url('https://i.im.ge/2022/09/15/1liXVc.pexels-vlad-bagacian-3987066-14.jpg')", height: '800px', backgroundSize: 'cover'  }}
+      >
         <Navigation></Navigation>
     <div class="container px-5">
         <div class="row gx-5 justify-content-center">
