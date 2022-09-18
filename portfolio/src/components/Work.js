@@ -2,7 +2,7 @@ import React from 'react';
 
 function About()
 {return (
-    <section class="py-5 border-bottom" id="features">
+    <section class="py-5 border-bottom bg-light" id="features">
     <div class="container px-5 my-5">
         <div class="row gx-5">
             <div class="col-lg-4 mb-5 mb-lg-0">
