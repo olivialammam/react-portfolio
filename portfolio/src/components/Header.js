@@ -27,8 +27,8 @@ function header()
                     <h1 class="display-4 font-weight-bold text-white">Olivia Lammam</h1>
                     <p class="lead text-white font-weight-bold font-italic mb-0 mb-4 ">Full Stack Web Developper.</p>
                     <div class="d-grid gap-3 d-sm-flex justify-content-sm-center">
-                        <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Contact</a>
-                        <a class="btn btn-outline-light btn-lg px-4" href="#!">Learn More</a>
+                        <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#contact">Contact</a>
+                        <a class="btn btn-outline-light btn-lg px-4" href="#about">Learn More</a>
                     </div>
                 
             </div>
