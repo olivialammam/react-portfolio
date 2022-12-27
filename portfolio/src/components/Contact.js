@@ -1,14 +1,18 @@
 import React from 'react';
 
+
+
 function Contact() {
     return (
         <section id="contact"
+        
         class="py-5 bg-light border-bottom">
             <div class="container my-5">
                 <div class="row justify-content-center">
                     <div class="col-lg-6">
                         <h2 class="display-6 font-weight-bold text-dark"> Let's get in touch!</h2>
                         <hr class="divider" />
+                        
                         <div>
                             
                             <p class="lead text-white font-weight-bold font-italic mb-0 mb-4 "> 
@@ -42,8 +46,12 @@ function Contact() {
                     </div>
                     </div>
                     </div>
+                    
         </section>
+        
     )
 }
+
+
 
 export default Contact;

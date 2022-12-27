@@ -6,6 +6,42 @@ function About()
     class="py-5 border-bottom bg-light" id="features">
     <div class="container px-5 my-5">
         <div class="row gx-5">
+        <div class="col-lg-4 mb-5 mb-lg-0">
+                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-collection"></i></div>
+                <h2 class="h4 fw-bolder">UNDRGRND Muscle & Fitness</h2>
+                <p>Application for a gym created using HTML, CSS, Javascript.</p>
+                <a class="text-decoration-none" href="https://www.undrgrdmusclefitness.com/">
+                View Website
+                    <i class="bi bi-arrow-right"></i>
+                </a>
+            </div>
+            <div class="col-lg-4 mb-5 mb-lg-0">
+                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-building"></i></div>
+                <h2 class="h4 fw-bolder">Salon & Spa Vibes</h2>
+                <p>Salon Vibes salon website created using Wordpress.</p>
+                <a class="text-decoration-none" href="https://salonvibes.com/">
+                View Website
+                    <i class="bi bi-arrow-right"></i>
+                </a>
+            </div>
+        <div class="col-lg-4 mb-5 mb-lg-0">
+                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-collection"></i></div>
+                <h2 class="h4 fw-bolder">Salon Vibes</h2>
+                <p>Salon Vibes e-commerce store for a beauty salon that sells various products. Created using Shopify.</p>
+                <a class="text-decoration-none" href="https://shop.salonvibes.com/">
+                View Website
+                    <i class="bi bi-arrow-right"></i>
+                </a>
+            </div>
+            <div class="col-lg-4 mb-5 mb-lg-0">
+                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-building"></i></div>
+                <h2 class="h4 fw-bolder">Dressier Fashion</h2>
+                <p>Dressier Fashion is an e-commerce women's clothing shop. Created using Shopify.</p>
+                <a class="text-decoration-none" href="https://dressierfashion.com/">
+                View Website
+                    <i class="bi bi-arrow-right"></i>
+                </a>
+            </div>
             <div class="col-lg-4 mb-5 mb-lg-0">
                 <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-collection"></i></div>
                 <h2 class="h4 fw-bolder">Vehicle Maintnance Tracker</h2>
@@ -33,24 +69,7 @@ function About()
                     <i class="bi bi-arrow-right"></i>
                 </a>
             </div>
-            <div class="col-lg-4 mb-5 mb-lg-0">
-                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-collection"></i></div>
-                <h2 class="h4 fw-bolder">Salon Vibes</h2>
-                <p>Salon Vibes e-commerce store for a beauty salon that sells various products. Created using shopify.</p>
-                <a class="text-decoration-none" href="https://shop.salonvibes.com/">
-                View Website
-                    <i class="bi bi-arrow-right"></i>
-                </a>
-            </div>
-            <div class="col-lg-4 mb-5 mb-lg-0">
-                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-building"></i></div>
-                <h2 class="h4 fw-bolder">Dressier Fashion</h2>
-                <p>Dressier Fashion is an e-commerce women's clothing shop. Created using shopify.</p>
-                <a class="text-decoration-none" href="https://dressierfashion.com/">
-                View Website
-                    <i class="bi bi-arrow-right"></i>
-                </a>
-            </div>
+
         </div>
     </div>
 </section>

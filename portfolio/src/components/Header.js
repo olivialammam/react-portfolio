@@ -2,6 +2,10 @@ import React from 'react';
 import 'owl.carousel';
 import Navigation from './Navigation';
 
+
+
+
+
 function header()
 { return (
     <header 
@@ -21,6 +25,7 @@ function header()
         {/* <div class="overlay"></div> */}
     
     {/* <div className='mask' style={{ backgroundColor: 'rgba(56, 54, 54, 0.5)', height: '600px'}}> */}
+          
           <div className='d-flex justify-content-center align-items-center p-5'>
 
                 <div class="text-center my-5">
